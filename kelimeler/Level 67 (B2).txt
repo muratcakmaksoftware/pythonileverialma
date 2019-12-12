@@ -1,0 +1,4 @@
+witness	görgü şahiti		tanık,tanıklık etmek
+zip	fermuar
+gear	dişli		vites
+transmission	şanzıman		vites,iletim

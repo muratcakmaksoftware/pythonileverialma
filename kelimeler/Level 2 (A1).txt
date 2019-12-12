@@ -1,0 +1,15 @@
+bill	fatura
+body	vücut
+boil	kaynamak		kaynatmak
+bookstore	kitapevi
+boring	sıkıcı
+borrow	ödünç almak		borç almak
+boss	patron
+bottle	şişe
+box	kutu
+brave	cesur
+bread	ekmek
+break	kırmak
+bridge	köprü
+brush	fırça		fırçalamak
+build	inşa etmek

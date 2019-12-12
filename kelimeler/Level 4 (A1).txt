@@ -1,0 +1,15 @@
+clean	temizlemek		temiz
+clear	açık		belli,temiz
+clever	zeki
+clock	saat
+cloud	bulut
+coat	ceket
+cold	soğuk
+company	şirket
+continue	devam etmek
+correct	doğru		düzeltmek
+country	ülke
+cow	inek
+cry	ağlamak
+daily	günlük
+dark	koyu

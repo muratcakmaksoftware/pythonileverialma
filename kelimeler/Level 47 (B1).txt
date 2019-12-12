@@ -1,0 +1,15 @@
+scissors	makas
+seat	oturak		koltuk
+select	seçmek
+send	göndermek
+situation	durum		olay
+serve	hizmet etmek
+sharp	keskin
+shine	parlatmak		parlamak
+shoulder	omuz
+shout	bağırmak
+sign	imza		işaret
+silent	sessiz
+simple	basit
+ski	kayak
+snake	yılan

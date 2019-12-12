@@ -1,0 +1,15 @@
+accountant	muhasebeci
+afraid	korkmak
+age	yaş
+alone	yalnız
+airplane	uçak
+angry	kızgın
+animal	hayvan
+answer	cevap
+architect	mimar
+arrive	varmak
+aunt	hala		teyze
+bag	çanta
+ball	top
+bath	banyo
+beautiful	güzel

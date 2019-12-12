@@ -1,0 +1,15 @@
+record	kayıt
+refuse	reddetmek		geri çevirmek
+relation	ilişki
+relax	rahatlamak
+remote control	uzaktan kontrol
+reply	yanıtlamak		cevap
+report	bildirmek		rapor etmek
+retire	emekli olmak
+rock	kaya
+rope	ip
+rude	kaba
+rule	kural
+safe	güvenli		emniyetli
+salary	maaş
+save	kurtarmak

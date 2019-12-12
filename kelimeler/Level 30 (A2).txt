@@ -1,0 +1,15 @@
+rope	ip
+rude	kaba
+rule	kural
+safe	güvenli		emniyetli
+salary	maaş
+save	kurtarmak
+scissors	makas
+seat	oturak		koltuk
+select	seçmek
+send	göndermek
+situation	durum		olay
+serve	hizmet etmek
+sharp	keskin
+shine	parlatmak		parlamak
+shoulder	omuz

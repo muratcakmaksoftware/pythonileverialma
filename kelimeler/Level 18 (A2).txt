@@ -1,0 +1,15 @@
+area	alan		bölge,saha
+argue	tartışmak
+arm	kol
+backgammon	tavla
+begin	başlamak
+believe	inanmak
+bell	zill
+bite	ısırmak
+blanket	battaniye
+brain	beyin
+bring	getirmek
+business	iş
+busy	meşgul
+cable	kablo
+can	e bilmek

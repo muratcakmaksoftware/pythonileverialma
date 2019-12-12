@@ -1,0 +1,15 @@
+security	güvenlik
+sell	satmak
+serious	ciddi
+shelf	raf
+ship	gemi
+shirt	gömlek
+shoe	ayakkabı
+show	göstermek
+sick	hasta
+sing	söylemek		şarkı söylemek
+single	tek		bekar
+skirt	etek
+sky	gökyüzü
+smile	gülümsemek
+snow	kar		kar yağışı

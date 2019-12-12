@@ -1,0 +1,15 @@
+pocket	cep
+polite	kibar
+pool	havuz
+poor	fakir		yoksul,zavallı,yazık
+possible	imkanlı
+push	itmek		basmak (tuşa)
+quick	çabuk
+quiet	sessiz
+railway	demiryolu
+ready	hazır
+refrigerator	buzdolabı
+remember	hatırlamak
+rent	kiralamak
+repair	tamir etmek
+repeat	tekrarlamak

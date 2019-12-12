@@ -1,0 +1,15 @@
+diagnose	tedavi
+disappear	gözden kaybolmak		yok olmak,ortadan kaybolmak
+disappoint	hayal kırıklığına uğramak
+distance	uzaklık
+distribution	dağıtma		dağıtım,dağılım
+dreadful	rezil
+eager	istekli
+election	seçim
+embassy	büyükelçilik
+encourage	cesaretlendirmek
+enemy	düşman
+enterprise	girişim		teşebbüs
+entrepreneur	girişimci		müteşebbis
+envy	imrenmek		kıskançlık
+essay	kalkışmak		tecrübe etmek

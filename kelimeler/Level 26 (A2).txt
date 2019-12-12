@@ -1,0 +1,15 @@
+journey	seyehat
+juice	meyve suyu
+jump	zıplamak
+key	anahtar
+kick	tekmelemek		tekme
+kind	çeşit		cins,nazik
+knee	diz		diz çökmek
+knife	bıçak
+lake	göl
+lamb	kuzu
+leather	deri
+leg	bacak
+lift	kaldırmak		asansör
+lip	dudak
+lock	kilitlemek		kilit

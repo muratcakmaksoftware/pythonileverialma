@@ -1,0 +1,15 @@
+oil	yağ
+overweight	kilolu
+pick	seçmek
+plant	ekmek (v)		dikmek,bitki
+plate	tabak
+poem	şiir
+point	nokta		uç,puan
+power	güç
+prepare	hazırlanmak
+pretty	sevimli
+price	fiyat		paha
+produce	üretmek
+queen	kraliçe
+reach	ulaşmak		erişmek
+reason	sebep

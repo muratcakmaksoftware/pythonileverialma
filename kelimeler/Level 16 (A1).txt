@@ -1,0 +1,15 @@
+trainers	spor ayakkabısı
+travel	seyehat		gezi
+tree	ağaç
+trousers	pantolon		kumaş pantolon
+turn	dönmek
+ugly	çirkin
+umbrella	şemsiye
+uncle	amca
+understand	anlamak
+underwear	iç çamaşır
+waiter	garson
+wall	duvar
+watermelon	karpuz
+way	taraf		tarz,yön
+weak	güçsüz

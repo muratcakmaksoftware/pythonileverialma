@@ -1,0 +1,15 @@
+experience	tecrübe
+explain	açıklamak
+eyebrow	kaş
+eyelash	kirpik
+eyelid	göz kapağı
+face	yüz
+factory	fabrika
+fail	başarısız olmak
+famous	ünlü
+fan	fan
+feel	hissetmek
+female	bayan
+fight	dövüşmek		dövmek
+fill	doldurmak
+first aid	ilk yardım

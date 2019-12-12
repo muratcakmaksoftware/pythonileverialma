@@ -1,0 +1,15 @@
+comment	yorumlamak		yorum
+commerce	ticaret
+commercial	ticari
+community	cemaat		topluluk,camia
+competition	yarışma		rekabet
+complaint	şikayet
+concentrate	konsantre olmak
+condition	hal		durum,şart
+confess	itiraf etmek
+congratulate	tebrik etmek
+congress	kongre
+consider	dikkate almak		hesaba katmak
+construction	inşaat		yapı
+consult	danışmak
+contest	yarışma

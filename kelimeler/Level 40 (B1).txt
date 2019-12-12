@@ -1,0 +1,15 @@
+flag	bayrak
+flat	düz		daire (ev)
+flour	un
+fog	sis
+follow	takip etmek
+food	yiyecek
+foreign	yabancı
+formal	resmi
+fresh	ferah
+front	ön
+fuel	yakıt
+furniture	mobilya
+future	gelecek
+garlic	sarımsak
+gate	kapı

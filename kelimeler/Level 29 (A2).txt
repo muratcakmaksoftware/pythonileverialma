@@ -1,0 +1,15 @@
+pretty	sevimli
+price	fiyat		paha
+produce	üretmek
+queen	kraliçe
+reach	ulaşmak		erişmek
+reason	sebep
+record	kayıt
+refuse	reddetmek		geri çevirmek
+relation	ilişki
+relax	rahatlamak
+remote control	uzaktan kontrol
+reply	yanıtlamak		cevap
+report	bildirmek		rapor etmek
+retire	emekli olmak
+rock	kaya

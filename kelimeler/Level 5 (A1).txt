@@ -1,0 +1,15 @@
+dentist	dişçi
+difficult	zor
+dirty	pis
+divorced	boşanmış
+draw	çizmek
+early	erken
+earn	para kazanmak
+elephant	fil
+emergency	acil		tehlike
+empty	boş
+engaged	nişanlı		bağlı
+engineer	mühendis
+enough	yeterli
+eraser	silgi
+error	hata

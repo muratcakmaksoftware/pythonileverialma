@@ -1,0 +1,15 @@
+map	harita
+married	evli
+meal	yemek
+meet	tanışmak
+meeting	toplantı
+melon	kavun
+minute	dakika
+mirror	ayna
+miss	kaçırmak		özlemek
+mistake	hata
+month	ay
+need	ihtiyacı olmak
+neighbor	komşu
+news	haber
+nice	hoş

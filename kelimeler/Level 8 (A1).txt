@@ -1,0 +1,15 @@
+job	iş
+journalist	gazeteci		gazeteci yazar
+kill	öldürmek
+large	büyük
+laugh	gülmek
+lawyer	avukat
+leave	ayrılmak
+left	sol
+lend	ödünç vermek
+letter	mektup		harf
+library	kütüphane
+light	ışık
+lunch	öğle yemeği
+manager	yönetici
+main	ana

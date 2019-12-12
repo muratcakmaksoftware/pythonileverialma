@@ -1,0 +1,15 @@
+shout	bağırmak
+sign	imza		işaret
+silent	sessiz
+simple	basit
+ski	kayak
+snake	yılan
+soap	sabun
+society	halk		toplum
+soft	yumuşak
+spider	örümcek
+stand	durmak		ayakta durmak
+stone	taş
+storm	fırtına
+subway	metro
+sure	emin olmak

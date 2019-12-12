@@ -1,0 +1,15 @@
+nose	burun
+nurse	hemşire
+object	obje		nesne
+opposite	zıt		karşıt,ters
+oven	fırın
+page	sayfa
+paint	resim yapmak
+parent	ebeveyn
+pass	geçmek		geçiş
+pay	ödemek
+pepper	biber
+personal	kişisel
+pet	evcil hayvan
+place	yer
+plane	uçak

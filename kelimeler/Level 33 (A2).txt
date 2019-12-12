@@ -1,0 +1,12 @@
+valuable	değerli
+vegetable	bitki
+view	görüş		manzara
+voice	ses
+war	savaş
+warm	ılık		ısıtmak,ısınmak
+warning	ikaz		uyarı
+weather	hava
+wet	ıslak
+win	kazanmak
+wine	şarap
+worry	merak etmek		endişelenmek

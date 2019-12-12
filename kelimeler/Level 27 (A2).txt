@@ -1,0 +1,15 @@
+lose	kaybetmek
+loud	yüksek sesle
+lovely	güzel
+luck	şans
+magic	büyü		sihir
+mall	alışveriş merkezi
+medicine	tıp		ilaç
+mend	onarmak
+mixed	karışık
+monkey	maymun
+moon	ay
+mountain	dağ
+mouth	ay (takvim)
+move	hareket etmek		taşınmak
+nail clippers	tırnak makası

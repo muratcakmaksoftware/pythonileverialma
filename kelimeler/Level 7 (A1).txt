@@ -1,0 +1,15 @@
+gun	silah		tabanca
+habit	alışkanlık
+half	yarım		yarı
+hand	el
+handsome	yakışıklı
+hate	nefret etmek
+health	iyileştirmek		sağlıklı
+hear	duymak
+heart	kalp
+high	yüksek
+history	tarih
+horror	korku		dehşet
+hungry	acıkmış olmak
+ill	hasta olmak
+interested	ilgili		alakalı

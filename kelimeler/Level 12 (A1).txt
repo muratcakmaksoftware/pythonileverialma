@@ -1,0 +1,15 @@
+restroom	tuvalet
+return	geri dönmek
+rice	pirinç
+rich	zengin
+ride	sürmek
+right	sağ
+ring	çalmak		ring
+rise	yükselmek		artış
+river	nehir
+road	yol
+roof	çatı
+room	oda
+rose	gül
+salt	tuz
+same	aynı

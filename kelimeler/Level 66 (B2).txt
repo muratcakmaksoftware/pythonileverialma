@@ -1,0 +1,15 @@
+transmit	iletmek		ulaştırmak
+treat	tedavi etmek		davranmak,işlemek
+treatment	tedavi		muamele
+trick	kandırmak		dalavere,oyun etmek
+underline	vurgulamak
+unemployment	işsiz
+urgent	acil
+value added tax	kdv		katma değer vergisi
+violent	şiddetli
+volunteer	gönüllü olmak
+warehouse	depo
+wealthy	varlıklı		zengin
+weapon	silan
+whistle	fısıldamak
+wholesale	toptan satış

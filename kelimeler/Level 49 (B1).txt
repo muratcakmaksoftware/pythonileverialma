@@ -1,0 +1,15 @@
+terrible	korkunç		berbat
+throw	fırlatmak		atmak,atış
+tiger	kaplan
+tissue	doku
+tongue	dil
+touch	dokunmak
+transport	nakletmek
+trouble	sorun
+try	denemek
+usual	olağan
+vacation	izin		tatil
+vacuum cleaner	elektrikli süpürge
+valuable	değerli
+vegetable	bitki
+view	görüş		manzara
